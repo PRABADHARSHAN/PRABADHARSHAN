@@ -13,7 +13,7 @@
 
 - 👯 I’m Currently Studying On **Karapaga Vinayaga Collage of Engineering and Technology**
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **REACT JS**
 
 - 📫 How to reach me **prabadharshan2002@gmail.com**
 
